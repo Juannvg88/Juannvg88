@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juannvg88
 - 👀 I’m interested in football and programming
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate in the wordl
+- 💞️ I’m looking to collaborate in the world
 - 📫 How to reach me ...
 
 <!---
